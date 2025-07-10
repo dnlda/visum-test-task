@@ -1,0 +1,9 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  min-height: 100svh;
+  padding: 80px;
+  gap: 5px;
+  background-color: #f9f9f9;
+}
